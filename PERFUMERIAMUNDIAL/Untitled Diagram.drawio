@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T15:45:28.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="mhpRNL78lleDTsiVjT5v" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:47:40.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ynWg4WHx3QVphjAepYOh" version="17.2.4" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
     <mxGraphModel dx="2064" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,6 +347,15 @@
         </mxCell>
         <mxCell id="tTHSPChEhPKR0PGT31vi-42" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="670" y="1090" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tTHSPChEhPKR0PGT31vi-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tTHSPChEhPKR0PGT31vi-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="970" as="sourcePoint" />
+            <mxPoint x="750" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tTHSPChEhPKR0PGT31vi-44" value="Chequear xq no salta&lt;br&gt;el error en Promise.all" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="930" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
