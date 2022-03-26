@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T04:29:16.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="eX9TPqdWycyV6YC_CTA2" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T04:35:06.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="3WqvvFhgHoJud_la7MAI" version="17.2.4" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,11 +25,6 @@
         </mxCell>
         <mxCell id="lC1LubLC5lz1J4YGzEKo-2" value="FIRST STEP&lt;br&gt;ADDRESS FORM" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lC1LubLC5lz1J4YGzEKo-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;startArrow=none;" parent="1" source="lC1LubLC5lz1J4YGzEKo-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lC1LubLC5lz1J4YGzEKo-4" value="SECOND STEP&lt;br&gt;PAYMENT CHOICE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="360" width="120" height="30" as="geometry" />
@@ -156,23 +151,45 @@
             <mxPoint x="400" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lC1LubLC5lz1J4YGzEKo-43" value="compraAPI/&lt;br&gt;addDatosEnvio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="360" y="420" width="80" height="30" as="geometry" />
+        <mxCell id="lC1LubLC5lz1J4YGzEKo-43" value="compraAPI/&lt;br&gt;addDatosPayment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="355" y="420" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lC1LubLC5lz1J4YGzEKo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=none;" parent="1" source="lC1LubLC5lz1J4YGzEKo-4" target="lC1LubLC5lz1J4YGzEKo-43" edge="1">
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="lC1LubLC5lz1J4YGzEKo-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="390" as="sourcePoint" />
-            <mxPoint x="400" y="410" as="targetPoint" />
+            <mxPoint x="680" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lC1LubLC5lz1J4YGzEKo-47" value="THIRD&lt;br&gt;CONFIRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="365" y="480" width="70" height="30" as="geometry" />
+        <mxCell id="lC1LubLC5lz1J4YGzEKo-47" value="THIRD STEP&lt;br&gt;CONFIRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="355" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX86QxE9Dc3Bw4Pw90zu-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.888;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lC1LubLC5lz1J4YGzEKo-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="370" as="sourcePoint" />
             <mxPoint x="770" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lC1LubLC5lz1J4YGzEKo-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="GX86QxE9Dc3Bw4Pw90zu-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-8" value="/checkout/pagos/payment&lt;br&gt;POST" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="475" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-10" value="req.query.ongoingPurchase?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-11" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="820" y="585" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-12" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="675" y="585" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
