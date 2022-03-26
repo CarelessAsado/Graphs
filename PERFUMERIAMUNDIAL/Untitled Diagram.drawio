@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T04:35:06.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="3WqvvFhgHoJud_la7MAI" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T04:41:49.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ESoBbvz6qLfAA3HtszBj" version="17.2.4" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,9 +154,13 @@
         <mxCell id="lC1LubLC5lz1J4YGzEKo-43" value="compraAPI/&lt;br&gt;addDatosPayment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="355" y="420" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="lC1LubLC5lz1J4YGzEKo-47">
+        <mxCell id="GX86QxE9Dc3Bw4Pw90zu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;exitX=1.044;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lC1LubLC5lz1J4YGzEKo-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="495" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="427" />
+              <mxPoint x="570" y="495" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lC1LubLC5lz1J4YGzEKo-47" value="THIRD STEP&lt;br&gt;CONFIRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
