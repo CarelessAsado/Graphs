@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T18:06:28.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="4jRmBQ7UIMfQcWHfI4-c" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T18:10:02.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wfM0ZnWhkSP8d5qNjl42" version="17.2.4" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
     <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,6 +730,15 @@
         </mxCell>
         <mxCell id="2nWrkRlHyeW5uhqLxSTE-69" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2nWrkRlHyeW5uhqLxSTE-71" value="SI QUIERO BORRAR&amp;nbsp;&lt;br&gt;UN TAMAñO EN ESP&lt;br&gt;HAGO UPDATE&lt;br&gt;O DELETE?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="545" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2nWrkRlHyeW5uhqLxSTE-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;strokeColor=#FF5E19;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2nWrkRlHyeW5uhqLxSTE-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="520" as="sourcePoint" />
+            <mxPoint x="1540" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
