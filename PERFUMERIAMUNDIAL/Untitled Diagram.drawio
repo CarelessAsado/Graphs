@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T18:47:01.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="UmOLj81n6Piy7E_kNc1t" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T18:49:50.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1BCru2o9qF6fTfn46ziP" version="17.4.2" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
     <mxGraphModel dx="2605" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -796,8 +796,13 @@
         <mxCell id="TJXqSVCt47yBhVBUqgFW-9" value="Originalmente quise&lt;br&gt;hacer un findOneAndUpdate&lt;br&gt;pero hay un tema con los validators q aplican al array, dejé un poco documentado en .doc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1400" y="950" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TJXqSVCt47yBhVBUqgFW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="TJXqSVCt47yBhVBUqgFW-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="1120.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TJXqSVCt47yBhVBUqgFW-11" value="&lt;font color=&quot;#000000&quot;&gt;prodFound.esp= prodFound.filter(i._id&lt;b&gt;.equals&lt;/b&gt;(_id)&lt;br&gt;await prodFound.save()&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1090" width="190" height="60" as="geometry" />
+          <mxGeometry x="1010" y="1090" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TJXqSVCt47yBhVBUqgFW-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#CC6600;strokeWidth=7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -810,6 +815,9 @@
             <mxPoint x="990" y="1167.9999999999995" as="sourcePoint" />
             <mxPoint x="1580" y="1167.9999999999995" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TJXqSVCt47yBhVBUqgFW-16" value="Si es el ultimo tamaño del &lt;br&gt;array te va a saltar error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;glass=0;sketch=0;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1105" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
