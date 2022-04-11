@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T02:33:05.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="-yaLhhIKIQXyGk3O-IOu" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T03:55:44.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PHGU9qcnHT09vpqwdyrt" version="17.4.2" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3015" dy="2341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -725,9 +725,6 @@
         <mxCell id="2nWrkRlHyeW5uhqLxSTE-67" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;prodToUpdate.save()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E5CCFF;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1150" y="860" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2nWrkRlHyeW5uhqLxSTE-69" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2nWrkRlHyeW5uhqLxSTE-71" value="SI QUIERO BORRAR&amp;nbsp;&lt;br&gt;UN TAMAñO EN ESP&lt;br&gt;HAGO UPDATE&lt;br&gt;O DELETE?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="1545" y="545" width="140" height="60" as="geometry" />
         </mxCell>
@@ -815,6 +812,15 @@
         </mxCell>
         <mxCell id="TJXqSVCt47yBhVBUqgFW-16" value="Si es el ultimo tamaño del &lt;br&gt;array te va a saltar error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;glass=0;sketch=0;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="1250" y="1105" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zj59xO0RoWrkR-UQKXOQ-1" value="Conviene usar _id en vez del tamaño? Así podría actualizar el tamaño. Ver si no jode con las compras o quizas otra cosa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="430" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="zj59xO0RoWrkR-UQKXOQ-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="2nWrkRlHyeW5uhqLxSTE-30" target="zj59xO0RoWrkR-UQKXOQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="600" as="sourcePoint" />
+            <mxPoint x="1250" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
