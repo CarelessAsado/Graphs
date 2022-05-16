@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T14:18:23.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="hBVEX6_YkmTZcGhffzrb" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T16:31:49.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="iKuEt-gkk315DDXs2gnh" version="18.0.2" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
-    <mxGraphModel dx="3412" dy="2554" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1757" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -725,8 +725,8 @@
         <mxCell id="2nWrkRlHyeW5uhqLxSTE-67" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;prodToUpdate.save()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E5CCFF;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1150" y="860" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2nWrkRlHyeW5uhqLxSTE-71" value="SI QUIERO BORRAR&amp;nbsp;&lt;br&gt;UN TAMAñO EN ESP&lt;br&gt;HAGO UPDATE&lt;br&gt;O DELETE?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#990000;" parent="1" vertex="1">
-          <mxGeometry x="1545" y="545" width="140" height="60" as="geometry" />
+        <mxCell id="2nWrkRlHyeW5uhqLxSTE-71" value="SI QUIERO BORRAR&amp;nbsp;&lt;br&gt;UN TAMAñO EN ESP&lt;br&gt;HAGO UPDATE&lt;br&gt;O DELETE?&lt;br&gt;Terminé usando&lt;br&gt;Delete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="1539" y="528" width="152" height="95" as="geometry" />
         </mxCell>
         <mxCell id="2nWrkRlHyeW5uhqLxSTE-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;strokeColor=#FF5E19;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2nWrkRlHyeW5uhqLxSTE-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
