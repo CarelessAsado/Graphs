@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T21:07:35.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="bo0yOjklqtPUAp6pZcH_" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T21:08:55.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="i7zfFeN4fIE5KozYA5O-" version="18.0.6" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
-    <mxGraphModel dx="1843" dy="4051" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="5412" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1259,7 +1259,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iz_X7QeaMK-yx-mh0QMZ-2" value="Aca chequeo si el prod está en promo&lt;br&gt;y calculo el desc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1273" width="144" height="47" as="geometry" />
+          <mxGeometry x="673" y="1273" width="125" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
