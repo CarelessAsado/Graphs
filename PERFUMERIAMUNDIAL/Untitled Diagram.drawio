@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T22:31:39.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="fj8gModyfqOmYggkZB_T" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-22T21:07:35.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="bo0yOjklqtPUAp6pZcH_" version="18.0.6" type="github">
   <diagram id="WNU0OnEOr58vU2dcK8G2" name="Page-1">
-    <mxGraphModel dx="2181" dy="4233" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="4051" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,8 +430,8 @@
             <mxPoint x="640" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tTHSPChEhPKR0PGT31vi-63" value="Final array +&amp;nbsp; Total" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="515" y="1280" width="110" height="20" as="geometry" />
+        <mxCell id="tTHSPChEhPKR0PGT31vi-63" value="Final array +&amp;nbsp; &lt;font color=&quot;#330066&quot;&gt;&lt;b&gt;Total&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="504" y="1281" width="133" height="19" as="geometry" />
         </mxCell>
         <mxCell id="tTHSPChEhPKR0PGT31vi-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="tTHSPChEhPKR0PGT31vi-65" target="tTHSPChEhPKR0PGT31vi-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1251,6 +1251,15 @@
         </mxCell>
         <mxCell id="WGAyI5sPv9AlNtTf3bMo-110" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;AGREGAR TAMAñO NUEVO&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fontColor=#006633;strokeColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1407" y="-2146" width="63" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="iz_X7QeaMK-yx-mh0QMZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.031;exitY=0.486;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e1d5e7;strokeColor=#190033;" edge="1" parent="1" source="tTHSPChEhPKR0PGT31vi-63" target="iz_X7QeaMK-yx-mh0QMZ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665" y="1323" as="sourcePoint" />
+            <mxPoint x="653" y="1289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz_X7QeaMK-yx-mh0QMZ-2" value="Aca chequeo si el prod está en promo&lt;br&gt;y calculo el desc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="673" y="1273" width="144" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
